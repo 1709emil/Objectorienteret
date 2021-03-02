@@ -1,5 +1,0 @@
-new class figur {
-  constructor() {
-    
-  }
-}
